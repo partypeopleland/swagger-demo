@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "swagger-demo", "swagger-demo\swagger-demo.csproj", "{28F8AB33-ED02-4892-BBEB-C52A481100F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Doc", "Doc", "{3B3E7779-6B27-44F5-ABE8-0D93EAE8A1FE}"
+	ProjectSection(SolutionItems) = preProject
+		Doc\index.yaml = Doc\index.yaml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28F8AB33-ED02-4892-BBEB-C52A481100F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28F8AB33-ED02-4892-BBEB-C52A481100F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28F8AB33-ED02-4892-BBEB-C52A481100F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28F8AB33-ED02-4892-BBEB-C52A481100F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
